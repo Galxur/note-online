@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'note',  # This is the schema name in MySQL Workbench
         'USER': 'root',
-        'PASSWORD': 'A6650070106s@',
+        'PASSWORD': '<PASSWORD>',
         'HOST': 'localhost',
         'PORT': '3306',
     }
